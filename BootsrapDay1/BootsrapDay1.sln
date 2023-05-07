@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootsrapDay1", "BootsrapDay1.csproj", "{F96A3408-D9EE-4AAC-93E9-DC1D34916C9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F96A3408-D9EE-4AAC-93E9-DC1D34916C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96A3408-D9EE-4AAC-93E9-DC1D34916C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96A3408-D9EE-4AAC-93E9-DC1D34916C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96A3408-D9EE-4AAC-93E9-DC1D34916C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D712431-9226-4960-9780-8F043574EA11}
+	EndGlobalSection
+EndGlobal
